@@ -1,3 +1,4 @@
 a = "Nguyễn Tuấn Kiệt"
+b = a + "ne"
 
-print(a)
+print(b)
